@@ -4,6 +4,8 @@ Idea from [here](https://github.com/florinpop17/app-ideas)
 
 **Demo**: [Codesandbox](https://lrkm139qwl.codesandbox.io/)
 
+**Creator**: [GitHub](https://github.com/email2vimalraj)
+
 **Tier:** 1-Beginner
 
 Binary is the number system all digital computers are based on.
